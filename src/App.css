@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    border: 0px !important;
+    background: transparent !important;
+}
+
+body {
+    background: #3b3b3b
+}
